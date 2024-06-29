@@ -1,1 +1,2 @@
 git_project
+Additional project information
